@@ -1,4 +1,4 @@
-# hidoop
+# Hidoop
 Project inspired by the framework Hadoop
 
 The goal of this project is to create a platform with a file system adapted to the concurrent processing of large amounts of data, 
