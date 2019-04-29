@@ -12,3 +12,10 @@ fragments, each fragment being stored on one of the nodes of the cluster.
 - a Hidoop service controlling the distributed and parallel execution of map processing, the recovery of results and the execution of the 
 reduce
 
+The different folders are organized as follows :
+- data : folder containing the file to be processed
+- sh : the different .sh files allowing to run the application
+- src : the source code of the application
+
+Additional information is provided in the various files.
+
