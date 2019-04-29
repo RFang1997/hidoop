@@ -17,5 +17,5 @@ The different folders are organized as follows :
 - sh : the different .sh files allowing to run the application
 - src : the source code of the application
 
-Additional information is provided in the various files.
+Additional information is provided in those folders.
 
