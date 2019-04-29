@@ -7,3 +7,5 @@ The different folders are organized as follows :
 - hdfs : contains the source code of the HiDFS service
 - map : contains the source code of the MapReduce scheme
 - ordo : contains the source code of the Hidoop service
+
+Additional information on the functioning and technologies used in the two project services is provided in the hdfs and ordo folders. 
