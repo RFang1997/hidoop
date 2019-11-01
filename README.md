@@ -1,5 +1,5 @@
 # Hidoop
-Project inspired by the framework Hadoop
+Project inspired by the Hadoop framework 
 
 The goal of this project is to create a platform with a file system adapted to the concurrent processing of large amounts of data, 
 as well as an execution core focused on scheduling and task management according to the "divide and conquer" scheme (map-reduce). 
